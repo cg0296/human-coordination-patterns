@@ -18,7 +18,7 @@ The key insight: **you are not training the AI. You are navigating it.** A `SKIL
 
 ## The Full Essay
 
-Read the full framework here: [What If Every Human Coordination Pattern Is an AI Agent Architecture?](YOUR_SUBSTACK_URL)
+Read the full framework here: https://substack.com/@curterrisgolden/note/p-191969365?r=37be2b&utm_medium=ios&utm_source=notes-share-action
 
 -----
 
