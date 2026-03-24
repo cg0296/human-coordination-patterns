@@ -18,7 +18,7 @@ The key insight: **you are not training the AI. You are navigating it.** A `SKIL
 
 ## The Full Essay
 
-Read the full framework here: https://substack.com/@curterrisgolden/note/p-191969365?r=37be2b&utm_medium=ios&utm_source=notes-share-action
+Read the full framework here: https://curterrisgolden.substack.com/p/what-if-every-human-coordination
 
 -----
 
